@@ -1,0 +1,10 @@
+Class  bicycle: auc = 0.7153 
+Class      bus: auc = 0.8119 
+Class      car: auc = 0.9146 
+Class      cat: auc = 0.7293 
+Class      cow: auc = 0.7915 
+Class      dog: auc = 0.6763 
+Class    horse: auc = 0.6657 
+Class motorbike: auc = 0.6638 
+Class   person: auc = 0.5305 
+Class    sheep: auc = 0.6237 
