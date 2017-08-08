@@ -1,5 +1,5 @@
-.jpg
-.png
+*.jpg
+*.png
 
 VOC2006
 drafts
